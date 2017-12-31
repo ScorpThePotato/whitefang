@@ -1,2 +1,2 @@
-# whitefang
-Repository of codename white fang.
+# White_fang
+Repository of codename white_fang.
